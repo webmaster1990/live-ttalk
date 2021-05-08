@@ -13,7 +13,7 @@
   "author": "Fitra Aditya",
   "license": "MIT",
   "dependencies": {
-    "handlebars": "^4.0.5",
+    "handlebars": "^4.7.7",
     "hapi": "^12.1.0",
     "inert": "^3.2.0",
     "vision": "^4.0.1"
